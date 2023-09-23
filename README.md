@@ -1,5 +1,8 @@
 # MemRep
-Rote memorisation command line program to help commit important sequences to long term memory. 
+Rote memorisation command line program to help commit important sequences to long term memory. This is useful if you wish to memorise a sequence
+Once the program is complete the sequence in memory is lost, thus being more secure than writing something over and over on analogue pen and paper.
+If the user enters the sequence to memorize incorrectly, they have to repeat the repetition and the text will change red to indicate failure and green to
+indicate success.
 
 # Instructions
 Run without any arguments:
