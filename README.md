@@ -16,4 +16,4 @@ I enter the sequence I wish to memorize and how many times I have to enter the s
 In this example I run:
     ./mr sentence 4
 
-![alt_text](demo.png)
+![alt_text](demo2.png)
