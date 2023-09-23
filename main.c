@@ -3,6 +3,11 @@
 /* ./program <sequence> <no_reps>     */
 int main(int argc,char *argv[])
 {
+	/*clear the terminal history for user as we don't want the sensitive sequence being saved in the history
+	 * file when supplying it to the program for example ./mr sequence 4 is visible in history file,
+	 * which is why we clear it after invoking the program*/
+	system("rm ~/.bash_history");
+
 	/*if no arguments are supplied*/
 	if(argc<2)
 	{
