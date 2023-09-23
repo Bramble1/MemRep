@@ -8,7 +8,7 @@ indicate success.
 
 # Instructions
 Run without any arguments:
-  ./mr <sequence> <no_reps>
+    ./mr
 
 # use case
 Let's say that you have a new mobile number and need to memorise it, then you can run the program with the following example:
