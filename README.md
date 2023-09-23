@@ -10,6 +10,8 @@ Let's say that you have a new mobile number and need to memorise it, then you ca
 
     ./mr 435345930584305 5
 
+I enter the sequence I wish to memorize and how many times I have to enter the sequence, being 5 times in this case.
+
 # Example image
 In this example I run:
     ./mr sentence 4
